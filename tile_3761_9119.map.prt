@@ -1,6 +1,14 @@
+Sceneryobjects\AFG_Others\sign_bus_zast.sco
+1082683427
+1082683427
+-1
 Sceneryobjects\Generic\bus_stop.sco
 1133251478
 1133251478
+-1
+Sceneryobjects\Generic\people_standing_small.sco
+1133251400
+1133251400
 -1
 Sceneryobjects\Gonzales\Stanica.sco
 1201322762
@@ -11,12 +19,16 @@ Sceneryobjects\M96\Potez300\buildings_rue_mod\Haus02c2.sco
 1133251399
 -1
 Sceneryobjects\Ruede\forest_backdrop01.sco
-1018397622
-1018397622
+1143303573
+1143303573
 -1
 Sceneryobjects\Steven Objecten\SK_Huis_28.sco
 1096981880
 1096981880
+-1
+Sceneryobjects\Streetobjects_RUE\DDR_Pole_Beton_cable.sco
+1143303438
+1143303438
 -1
 Sceneryobjects\Trees_MC\shrubbery_01_20.sco
 1133268380
@@ -29,6 +41,10 @@ Sceneryobjects\Trees_MC\shrubbery_03_10.sco
 Sceneryobjects\Trees_MC\shrubbery_03_20.sco
 1133268377
 1133268377
+-1
+Sceneryobjects\Trees_MC\shrubbery_03_20_mod.sco
+1155355312
+1155355312
 -1
 Sceneryobjects\Trees_MC\shrubbery_04_10.sco
 1133268384
@@ -53,6 +69,10 @@ Sceneryobjects\Trees_MC\tree_large_04.sco
 Sceneryobjects\Trees_MC\tree_large_06.sco
 1133268388
 1133268388
+-1
+Sceneryobjects\Trees_MC\tree_medium_02.sco
+1133268393
+1133268393
 -1
 Sceneryobjects\Trees_MC\tree_medium_06.sco
 1133268387
