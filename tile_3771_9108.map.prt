@@ -223,12 +223,12 @@ Sceneryobjects\M96\Potez300\zid\zid-5m-v15.sco
 1282973995
 -1
 Sceneryobjects\Nemolus Objekte\Verkehrszeichen\VZ_Mast_HalteverbotAbsolut.sco
-1052211051
-1052211051
+1052215147
+1052215147
 -1
 Sceneryobjects\Nemolus Objekte\Verkehrszeichen\VZ_OhneMast_FahrtrichtungGeradeausURechts.sco
-1052211536
-1052211536
+1052215632
+1052215632
 -1
 Sceneryobjects\Objects_RS\Zaun_Tor_6m_01.sco
 1063223330
@@ -241,14 +241,6 @@ Sceneryobjects\Objects_SN\Zaun_5m_01.sco
 Sceneryobjects\Objects_SN\Zaun_5m_03.sco
 1050763751
 1050763751
--1
-Sceneryobjects\Objects_SN\Zaun1o.sco
-1093252282
-1093252282
--1
-Sceneryobjects\Objects_SN\Zaun3o.sco
-1093252296
-1093252296
 -1
 Sceneryobjects\Polskie sygnalizatory\S-2_prawy\S-2_prawy.sco
 1076268407
@@ -531,7 +523,7 @@ Splines\Marcel\invis_human.sli
 -
 -
 Splines\Marcel\invis_street.sli
-1181617209
+999144654
 -
 -
 Splines\O3D_SimpleCrossingSplines\Gras1_5m.sli

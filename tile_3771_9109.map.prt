@@ -1,6 +1,6 @@
 Sceneryobjects\ADDON_SimpleStreets\RQ_7,5_to_9,5.sco
-1047943658
-1047943658
+1047947753
+1047947753
 -1
 Sceneryobjects\AFG_Converts\automat_cola.sco
 1114218284
@@ -207,8 +207,8 @@ Sceneryobjects\Objects_SN\Zaun_5m_03.sco
 1050763751
 -1
 Sceneryobjects\Objects_SN\Zaun3k.sco
-1093251792
-1093251792
+1093253839
+1093253839
 -1
 Sceneryobjects\Ruede\forest_backdrop01.sco
 1143303573
@@ -221,6 +221,10 @@ Sceneryobjects\Ruede\hst_wartehaus_alt01.sco
 Sceneryobjects\Streetobjects_RUE\DDR_1xBG_S_Beton_cable.sco
 1143303431
 1143303431
+-1
+Sceneryobjects\Streetobjects_RUE\DDR_Pole_Beton_cable.sco
+1143303438
+1143303438
 -1
 Sceneryobjects\Streetobjects_RUE\DDR_RSL1_Green_3m.sco
 1143303410
@@ -303,7 +307,7 @@ Sceneryobjects\Verkehrszeichen_MC\Mast_Ampel_klein_1.sco
 979936929
 -1
 Splines\ADDON_SimpleStreets\RQ_7,5_2spur_5,5m_Sidewalk.sli
-1047221001
+1047221000
 -
 -
 Splines\DolniKounice\PS_kraweznik-trawa-nor.sli
@@ -411,11 +415,15 @@ Splines\M96\Potez300\trotoar-1-5-zid-v-1-5m.sli
 -
 -
 Splines\Marcel\invis_street.sli
-1181617209
+999144654
 -
 -
 Splines\Ruede\DDR_Brick_Wall_01.sli
 1196582454
+-
+-
+Splines\Ruede\Kabel_holzmast_6m.sli
+1143303473
 -
 -
 Splines\Terrain Spline\Terrain Spline_Other textures\Terrain-Spline_Origin_Betonplatten\20mTerrain_Spline_Origin_Betonplatten.sli
