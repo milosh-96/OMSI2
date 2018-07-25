@@ -142,6 +142,14 @@ Sceneryobjects\Trees_MC\tree_medium_09.sco
 1133268388
 1133268388
 -1
+Sceneryobjects\UL\domek24.sco
+1083859213
+1083859213
+-1
+Sceneryobjects\UL\domek27.sco
+1085826717
+1085826717
+-1
 Splines\M96\Potez300\7,5-desni-trotoar-bez-linija  - no_ai.sli
 1256891077
 -
@@ -166,16 +174,16 @@ Splines\M96\Potez300\Chodnik_kraweznik_1,5m.sli
 1080529362
 -
 -
-Splines\M96\Potez300\Chodnik_kraweznik_2m.sli
-1080529622
+Splines\M96\Potez300\RQ_7,5_2spur_5,5m_Sidewalk - no_ai.sli
+1287296819
 -
 -
 Splines\M96\Potez300\RQ_7,5_2spur_5,5m_Sidewalk.sli
 1047221001
 -
 -
-Splines\M96\Potez300\RQ_9,5_2spur_6,5m_Sidewalk.sli
-1047221002
+Splines\M96\Potez300\RQ_9,5_2spur_6,5m_Sidewalk-trava-3m-obe-strane.sli
+1291300663
 -
 -
 Splines\M96\Potez300\Special\9,5_2spur_6,5m_Sidewalk-trot-tamni-beton-trava-siri-5m-obe-strane.sli
@@ -202,8 +210,20 @@ Splines\M96\Potez300\trotoar-1,2-sa-travom-5m.sli
 1287297475
 -
 -
+Splines\M96\Potez300\trotoar-1,5m-sa-travom-5m.sli
+1287034321
+-
+-
+Splines\M96\Potez300\vucka-milicevica-1.sli
+1291300470
+-
+-
 Splines\Marcel\invis_street.sli
 999144654
+-
+-
+Splines\Ruede\Kabel_holzmast_6m.sli
+1143303473
 -
 -
 Splines\Test_skrzyzowania\Asfalt_10m.sli
