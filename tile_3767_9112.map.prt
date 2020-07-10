@@ -154,6 +154,10 @@ Sceneryobjects\Wroclaw\stacja bp.sco
 1114815862
 1114815862
 -1
+Splines\BS_ADDON_CreativeStreets\Strassenmarkierungen\BS_StrMarkierung_WeissGepunktet_S.sli
+1158060060
+-
+-
 Splines\M96\Belgrade-Potez300\Test_skrzyzowania\Asfalt_7m.sli
 1080982763
 -
@@ -190,10 +194,6 @@ Splines\Terrain Spline\Terrain Spline_Other textures\Terrain-Spline_Origin_Beton
 1157972358
 -
 -
-Splines\Test_skrzyzowania\Asfalt_3m.sli
-1080980309
--
--
 Splines\Test_skrzyzowania\Asfalt_5m.sli
 1080980407
 -
@@ -204,9 +204,5 @@ Splines\Test_skrzyzowania\Asfalt_7m.sli
 -
 Splines\Test_skrzyzowania\Kraweznik_0,1m.sli
 1080596259
--
--
-Splines\Test_skrzyzowania\Linia_przerywana2.sli
-1080597437
 -
 -
